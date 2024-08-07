@@ -57,7 +57,7 @@ module.exports = function (config) {
       data: '_data',
     },
     templateFormats: ['njk', 'md'],
-    htmltemplateEngine: 'njk',
+    htmlTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',
   }
 }
